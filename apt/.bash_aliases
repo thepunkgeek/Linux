@@ -1,3 +1,6 @@
 alias apti='sudo apt install'
-alias upup='sudo apt update && sudo apt upgrade'
 alias aptar='sudo apt autoremove'
+alias up='sudo apt update'
+alias upup='sudo apt update && sudo apt upgrade'
+alias ls='ls -l'
+alias bye='sudo shutdown -h now'
